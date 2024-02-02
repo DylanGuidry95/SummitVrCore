@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.scivista.datamodules.csv": "file:Repositories/data_modules/csv/unity_module",
     "com.scivista.paraviewengine": "file:Repositories/SummitVR.Module.ParaView/Package",
     "com.scivista.summit.apps.sandbox": "file:Repositories/SummitVR.Unity.Package.Sandbox",
     "com.scivista.summit.core": "file:Repositories/SummitVR.Unity.Core",

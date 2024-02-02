@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.scivista.datamodules.csv": {
-      "version": "file:Repositories/data_modules/csv/unity_module",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.scivista.paraviewengine": {
       "version": "file:Repositories/SummitVR.Module.ParaView/Package",
       "depth": 0,
